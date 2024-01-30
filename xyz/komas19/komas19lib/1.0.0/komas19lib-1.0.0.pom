@@ -6,11 +6,11 @@
 
     <!-- Group ID, Artifact ID, and Version -->
     <groupId>xyz.komas19</groupId>
-    <artifactId>Komas19LIB</artifactId>
+    <artifactId>komas19lib</artifactId>
     <version>1.0.0</version>
 
     <!-- Project Information -->
-    <name>Komas19LIB</name>
+    <name>komas19lib</name>
     <description>Library for Minecraft plugins</description>
 
     <!-- Dependencies (if any) -->
